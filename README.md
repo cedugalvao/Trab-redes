@@ -5,4 +5,4 @@ Apenas é necessário abrir e executar o código "server-project.py" e abrir e e
 
 <h2>Projeto de Redes feito por:</h2>
   - Carlos Eduardo Noslin Tenório Galvão
-  - Leonardo Vinicius Wanderley Jatobá da Silva
+  <p>- Leonardo Vinicius Wanderley Jatobá da Silva</p>
