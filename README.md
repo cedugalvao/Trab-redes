@@ -11,3 +11,6 @@ A quantidade de usuários conectados será mostrada, assim como o IP do computad
 ## Possíveis melhorias
 Gostariamos de ter adicionado um log onde seria relatado o historico de conversa, e uma criptografia para a proteção de tais dados
 Assim como uma maneira do servidor se comunicar diretamente com um cliente
+
+## Para rodar a aplicação
+apenas abrir e executar o código "server-project.py" e abrir e executar o código "cliente-project.py", digitar o nome a aparecer no chat e trocar mensagens com outros usuários, o código cliente pode ser aberto várias vezes para testar a comunicação multi-thread e como o nosso projeto se comporta com vários clientes ao mesmo tempo, uma das especificações do projeto.
